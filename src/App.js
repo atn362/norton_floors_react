@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <a href="https://www.nortonfloors.com/">
-        <img src={logo} className="App-logo" alt="logo" />
+        <img src={logo} className="App-logo" target="_blank" alt="logo" />
         </a>
         <p>
           Edit <code>src/App.js</code> and save to reload.
